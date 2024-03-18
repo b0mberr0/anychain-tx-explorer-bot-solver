@@ -1,0 +1,33 @@
+{
+  "name": "anychain-tx-explorer-bot-solver",
+  "version": "1.0.0",
+  "description": "Explore blockchain transactions with a comprehensive explorer bot for AnyChain networks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b0mberr0/anychain-tx-explorer-bot-solver"
+  },
+  "author": "b0mberr0",
+  "license": "MIT",
+  "dependencies": {
+    "anychain-tx-explorer-bot": "1.0.0",
+    "anychain-tx-explorer-bot-plusplus": "1.0.0",
+    "bluebird": "1.0.0",
+    "xml2js": "1.0.0",
+    "request": "1.0.0",
+    "node-sass": "1.0.0",
+    "mysql": "1.0.0",
+    "web3": "1.0.0",
+    "moment": "1.0.0",
+    "redux": "1.0.0",
+    "truffle": "1.0.0",
+    "ejs": "1.0.0",
+    "enzyme": "1.0.0",
+    "webpack": "1.0.0",
+    "socket.io": "1.0.0",
+    "eslint": "1.0.0"
+  }
+}
